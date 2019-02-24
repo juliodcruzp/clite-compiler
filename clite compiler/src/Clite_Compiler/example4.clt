@@ -1,0 +1,10 @@
+int main ( )
+{
+	int a , b , c ;
+	
+
+	while ( a <=  b + 15 )
+		a = a + 1 ;
+
+
+}

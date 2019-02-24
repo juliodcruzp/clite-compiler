@@ -1,0 +1,44 @@
+int main()
+{
+{
+	float gato4 , caballo5blanco ;
+	bool e , f ;
+	int a , b , c ;
+	
+	a = 10 ;
+	b = a + c ;
+	e = false ;
+	f = true ;
+
+	gato4 = 1 . 3456798 ;
+
+	if ( a >= b )
+		a = a + b ;
+	else
+		b = c ;	
+	
+	if ( a + c == b && a > 10 || c < 15 + 3 )
+		a = a + b ;
+	else
+		b = c ;
+
+	
+	while ( a <=  b + 15 )
+		a = a + 1 ;
+
+	
+	while ( a  + d [ 15 * b ] < c )
+		if ( a + b <= d [ 1 ] )	
+			a = a + 1 ;
+		else
+			a = a + 2 ;
+	c = b + a % b + 5 * 2 / 3 - 4 + 5 * ( a +  4 * 15 ) ;
+
+	while ( a  + d[ 15 * b ] < c )
+	{	if ( a + b <= d [ 2 * a ] )	
+			a = a + 1 ;
+		else
+			a = a + 2 ;
+	}
+
+}

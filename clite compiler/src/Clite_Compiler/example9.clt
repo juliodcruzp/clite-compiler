@@ -1,0 +1,7 @@
+int main()
+{
+	float gato4 , caballo5blanco ;
+
+	gato4 = 1 . 3456798 ;	
+	
+}

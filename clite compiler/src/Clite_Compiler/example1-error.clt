@@ -1,0 +1,6 @@
+int main ( )
+{
+	int a 1 , b2 , c3 ;
+	a = 10 ;
+	b = a + c ;
+}

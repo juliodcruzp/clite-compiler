@@ -1,0 +1,10 @@
+int main ( )
+{
+	int a , b , c ;
+	a = 10 ;
+	c = b + a ;
+	if ( a + c == b && a > 10 || c < 15 + 3 )
+		a = a + b ;
+	else
+		b = c ;
+}
